@@ -1,0 +1,22 @@
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\bin\Debug\Robles SA 3.0.exe.config
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\bin\Debug\Robles SA 3.0.exe
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\bin\Debug\Robles SA 3.0.pdb
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles SA 3.0.csprojAssemblyReference.cache
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.frmRoblesSA.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.Properties.Resources.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles SA 3.0.csproj.GenerateResource.cache
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles SA 3.0.csproj.CoreCompileInputs.cache
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles SA 3.0.exe
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles SA 3.0.pdb
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.Clientes_por_Localidad.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.Inicio.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.Clientes.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.Clientes2020.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.ContactosUtilizados.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.PocasSinCompras.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.Productos.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.ProductosComprados.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.TopVendedores.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.Vendedores.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.VentasMayoristas.resources
+D:\UTN\Carrera\LCI\TP integrador - Grupo 3\Tercera Parte\Robles SA 3.0\Robles SA 3.0\obj\Debug\Robles_SA_3._0.frmFacturas.resources
